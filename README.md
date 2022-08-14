@@ -11,7 +11,7 @@
 <li>data_collection.py : script used to collect reddit data.</li>
 <li>analysis.ipynb : ipynb file containing analysis done.</li>
 <li>versions : contains all versions of model building approach. <ul><li>model_ver_1.ipynb</li><li>model_ver_2.ipynb</li></ul></li>
-<li>report.pdf : a report containing essential insights from all files.</li>
+<li>analysis.pdf : a report containing essential insights from all files.</li>
 </ul>
 </li>
 
